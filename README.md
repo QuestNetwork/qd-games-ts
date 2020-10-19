@@ -4,7 +4,7 @@
 
 ## Description
 
-qDesk Games is a module for [qDesk](https://qDesk.org). It integrates with qDesk Messages and allows the users in channels or communities to play Unity and Unreal Engine built games together while using qDesk for communication. 
+qDesk Games is a module for [qDesk](https://qDesk.org). It integrates with qDesk Messages and allows the users in channels or communities to play Unity and Unreal Engine built games together while using qDesk for communication.
 
 Use [Quest OS](https://github.com/QuestNetwork/quest-os-js) in your applications and you can use the underlying channels and data in your own application by booting with [Quest Games JS](https://github.com/QuestNetwork/quest-games-js).
 
@@ -36,7 +36,9 @@ Please consider supporting us, so that we can build a non-profit for this projec
 
 ## Development
 
-qDesk Games is a module of [qDesk](https://github.com/QuestNetwork/qDesk), so please see https://github.com/QuestNetwork/qDesk#development for instructions.
+See our [Kanban](https://github.com/orgs/QuestNetwork/projects/1) for the development of 0.9.5, feel free to add or pick up features!
+
+qD Games is a module of [qDesk](https://github.com/QuestNetwork/qDesk), so please see https://github.com/QuestNetwork/qDesk#development for instructions.
 
 ### Commands
 
@@ -48,7 +50,7 @@ We added an example ```swarm.json``` to the ```src/app``` folder with an example
 
 Pro Tip: Put a file in your `/bin` that runs the quest-cli like so `node /path/to/quest-cli/index.js` from any folder on your system. It's much nicer!
 
-## Features
+## Roadmap
 
 **0.9.6**
 - Basic functionality
